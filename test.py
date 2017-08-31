@@ -7,3 +7,4 @@ j = [3,7,9,"bola","yes",78]
 for a in j:
     print(a)
     print("this is the end of the code")
+    print("e se pupo")
